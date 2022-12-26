@@ -1,5 +1,9 @@
 # Drf-start
 User posting api with django rest framework
 
-# features
 
+# Features
+- user register, update, retrieve, login, logout
+- user authorization
+- post retrieve, create, update, delete
+- post owner
