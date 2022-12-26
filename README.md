@@ -12,3 +12,12 @@ User posting api with django rest framework
 ```
 pip install requirements.txt
 ```
+```
+cd src
+```
+```
+python manager.py migrate
+```
+```
+python manage.py runserver
+```
